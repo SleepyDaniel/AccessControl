@@ -1,2 +1,4 @@
-# AccessControl
-Stormworks Dedicated Server AccessControl Addon
+# Vehicle Locking
+* ?antisteal <status|on|off>
+* ?l(ock) <vehicle_id>
+* ?u(nlock) <vehicle_id>
